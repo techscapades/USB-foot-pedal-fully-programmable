@@ -4,7 +4,6 @@ A foot pedal switch that can be used for hands free presentations, cooking tutor
 
 Unlike many of its competitors, its completely programmable with 2 modes: short press and long press mode. Use it as a simple clicker, execute complex macros and keystrokes or as a pedal for your favourite racing game! If you want to connect more than 1 together, you simply connect them in a master/slave configuration so you save cost. But otherwise you can have as many independent ones as you have USB ports.
 
-You can find it in my shop in carousell: https://carousell.app.link/NTrH4ZfxRjb
 
 
 
